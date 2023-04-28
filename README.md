@@ -1,2 +1,2 @@
 # Patterns
-Different patterns in cpp
+Different patterns in cpp language
